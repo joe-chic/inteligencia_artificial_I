@@ -16,4 +16,5 @@ La base de datos cuenta con la siguiente información:
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./A1.1%20504065.ipynb)
 - [Reporte en formato pdf](./A1.1%20504065.pdf)
+- [Reporte en formato html](./HTML/A1.1%20504065.html)
 - [Base de datos](./A1.1%20Obesidad.csv)
