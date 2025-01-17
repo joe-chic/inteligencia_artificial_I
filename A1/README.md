@@ -14,6 +14,6 @@ La base de datos cuenta con la siguiente información:
 -	“NivelDeObesidad”. Se calcula a partir del índice de masa corporal (peso dividido entre estatura al cuadrado), y se categoriza como: bajo peso (Insufficient_Weight) para valores menores a 18.5, peso normal (Normal_Weight) para valores entre 18.5 y 24.9, sobrepeso tipo I (Overweight_Level_I) y sobrepeso tipo II (Overweight_Level_II) para valores entre 25.0 y 29.9, obesidad tipo I (Obesity_Type_I) para valores entre 30.00 y 34.9, obesidad tipo II (Obesity_Type_II) para valores entre 35.0 y 39.9, y obesidad tipo III (Obesity_Type_III) para valores superiores a 40.0
 
 Este proyecto incluye los siguientes documentos:
-- [Reporte en formato ipynb](./prueba.ipynb)
-- [Reporte en formato html](./prueba.html)
+- [Reporte en formato ipynb](./A1.1%20504065.ipynb)
+- [Reporte en formato pdf](./A1.1%20504065.pdf)
 - [Base de datos](./datos.csv)
