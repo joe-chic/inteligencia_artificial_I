@@ -4,4 +4,5 @@ Se trabajará con la base de datos de calidad de vino. En esta actividad se gene
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./A1.4%20504065.ipynb)
 - [Reporte en formato pdf](./A1.4%20504065.pdf)
+- [Reporte en formato html](./A1.4%20504065.html)
 - [Base de datos](./A1.4%20Vino%20Tinto.csv)

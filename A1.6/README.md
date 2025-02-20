@@ -4,5 +4,5 @@ En esta actividad se trabajará con una base de datos que se generó en el semes
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./A1.6%20504065.ipynb)
 - [Reporte en formato pdf](./A1.6%20504065.pdf)
-- [Reporte en formato html](./HTML/A1.6%20504065.html)
+- [Reporte en formato html](./A1.6%20504065.html)
 - [Base de datos](./A1.6%20Tiempo%20de%20Entrega.csv)
