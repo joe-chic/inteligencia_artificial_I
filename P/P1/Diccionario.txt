@@ -1,6 +1,0 @@
-SO - Suroeste
-SE - Sureste
-NE - Noreste
-...
-
-Los números indican si hay más de una estación.

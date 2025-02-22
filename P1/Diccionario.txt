@@ -1,0 +1,22 @@
+Estaciones:
+SO - Suroeste
+SE - Sureste
+NE - Noreste
+etc... Los números indican si hay más de una estación.
+
+Variables:
+CO (ppm): Monóxido de carbono (partes por millón)
+NO2 (ppb): Dióxido de nitrógeno (partes por billón)
+O3 (ppb): Ozono (partes por billón)
+PM10 (µg/m3): Partículas con diámetro menor a 10 micrómetros (microgramos por metro cúbico)
+PRS (mmHg): Presión atmosférica (milímetros de mercurio)
+RAINF (mm/h): Precipitación pluvial (milímetros por hora)
+RH (%): Humedad relativa (porcentaje)
+SO2 (ppb): Dióxido de azufre (partes por billón)
+SR (kWh/m2): Radiación solar (kilovatios-hora por metro cuadrado)
+Temp (°C): Temperatura (grados Celsius)
+WSR (km/h): Velocidad del viento (kilómetros por hora)
+WDR (°): Dirección del viento (grados)
+Fecha: Fecha de la medición
+Hora: Hora de la medición
+
