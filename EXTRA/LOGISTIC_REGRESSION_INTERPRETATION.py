@@ -30,7 +30,7 @@ y_prob = modelo.predict_proba(X_test)[:, 1]
 
 # Matriz de confusión
 conf_matrix = confusion_matrix(y_test, y_pred)
-print("Matriz de confusión:\n", conf_matrix)
+print("Matriz de confusión:\n", conf_matrix) # Un buen modelo debe procurar por minimizar los falsos negativos, lo cual puede ser visualizado en la matriz de confusion.
 
 # Reporte de clasificación
 print("\nReporte de Clasificación:\n", classification_report(y_test, y_pred))
@@ -46,7 +46,7 @@ fpr, tpr, _ = roc_curve(y_test, y_prob)
 roc_auc = auc(fpr, tpr)
 
 plt.figure(figsize=(6,4))
-plt.plot(fpr, tpr, label=f'ROC curve (AUC = {roc_auc:.2f})')
+plt.plot(fpr, tpr, label=f'ROC curve (AUC = {roc_auc:.2f})') # In this model, the AUC ROC is equal to 0.89, which is a good value.
 plt.plot([0, 1], [0, 1], 'k--')
 plt.xlabel('False Positive Rate')
 plt.ylabel('True Positive Rate')
