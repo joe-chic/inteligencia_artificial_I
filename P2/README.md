@@ -1,4 +1,3 @@
-# P2
 # **Proyecto P2 - Clasificación en la Competencia "Spaceship Titanic"**
 
 ## **Introducción**
